@@ -62,12 +62,12 @@ public class MarioMachado {
 
 ## 📊 GitHub Stats
 
-<!-- Live cards depend on an external service. If unavailable, images may temporarily fail to load. -->
+<!-- Stats powered by the same GitHub Readme Stats endpoint used by José Cardoso. Public metrics only; temporary API limits can affect availability. -->
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=1241178-MarioMachado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=9333EA&text_color=E9D5FF&ring_color=9333EA" alt="GitHub statistics" />
-<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1241178-MarioMachado&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF" alt="Most used repository languages" />
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=1241178-MarioMachado&theme=dark&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A855F7&icon_color=9333EA&text_color=E9D5FF&include_all_commits=false&count_private=false" alt="GitHub statistics" />
+<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=1241178-MarioMachado&theme=dark&layout=compact&hide_border=false&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF" alt="Most used repository languages" />
 
 <br />
 
